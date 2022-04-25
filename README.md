@@ -2,9 +2,6 @@
 <h1 align="left">Hii, I'm Bruna Girão</h1>
 <h3 align="left">Salesforce Developer</h3>
 
-
-<h4 align="left"> Here are some ideas to get you started: </h4>
-
 - 🔭 I’m currently working on **Salesforce**
 - 🌱 I’m currently learning **Apex, Aura, LWC and others tecnologies about Salesforce universe**
 - 💬 Ask me about **Apex**
