@@ -6,14 +6,14 @@
 
 - 📖 Sou Bacharel em Sistemas de Informação na UNICHRISTUS.
 - 💼 Atualmente sou Desenvolvedora Salesforce Plena na Nèscara.
-- 📒 Possuo as seguintes certificações Salesforce: 
-        -🔸Plataform App Builder 
+- 📒 Possuo as seguintes certificações Salesforce: </br>
+        -🔸Plataform App Builder </br>
         -🔸Plataform Developer I
 - 🌱 No momento estou aprendendo um pouco de tudo, mas principalmente Apex.
 - 🌳 Além de desenvolver mais projetos pessoais estou em busca aprender JavaScript.
-- ✏️ Metas de 2022: 
-      - ✅ Tirar minha cerfitificação Plataform Developer I
-      - ✅ Tirar minha cerfitificação App Builder
+- ✏️ Metas de 2022: </br>
+      - ✅ Tirar minha cerfitificação Plataform Developer I</br>
+      - ✅ Tirar minha cerfitificação App Builder </br>
       - ✅ Começar a aprender JavaScript
 
 ### Entre em contato:
