@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="bruna_info.png"/>
+</p>
 
 <h1 align="left">Hii, I'm Bruna Girão</h1>
 <h3 align="left">Salesforce Developer</h3>
