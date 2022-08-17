@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="bruna_info.png"/>
+  <img src="bruna_info_black.png"/>
 </p>
 
 <h1 align="left">Hii, I'm Bruna Girão</h1>
