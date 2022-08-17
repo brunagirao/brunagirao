@@ -18,7 +18,7 @@
 
 ### Entre em contato:
 
-<a href="https://www.linkedin.com/in/brunagirao/">
+<a href="https://www.linkedin.com/in/brunagirao/" target="_blank">
   <img src="https://img.shields.io/badge/-@brunagirao-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/brunagirao/" alt="LinkedIn Badge">
 </a>
 
