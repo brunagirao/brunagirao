@@ -10,7 +10,7 @@
         -🔸Plataform App Builder </br>
         -🔸Plataform Developer I
 - 🌱 No momento estou aprendendo um pouco de tudo, mas principalmente Apex.
-- 🌳 Além de desenvolver mais projetos pessoais estou em busca aprender JavaScript.
+- 🌳 Além de desenvolver mais projetos pessoais estou em busca de aprender JavaScript.
 - ✏️ Metas de 2022: </br>
       - ✅ Tirar minha cerfitificação Plataform Developer I</br>
       - ✅ Tirar minha cerfitificação App Builder </br>
@@ -24,10 +24,10 @@
 
 ---
 ### Status do Github
-<div align="center">
- <!--<a href="https://github.com/brunagirao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunagirao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="brunagirao" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brunagirao&layout=compact&langs_count=7&theme=dracula" alt="brunagirao" />
+<div align="left">
+ <a href="https://github.com/brunagirao">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunagirao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="brunagirao" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunagirao&layout=compact&langs_count=7&theme=dracula" alt="brunagirao" />
 </div>
 
 ---
