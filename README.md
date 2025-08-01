@@ -1,54 +1,148 @@
+# 👋 Hi! I'm Bruna Girão
+
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Salesforce+Developer;5%2B+Years+Experience;LWC+%26+Apex+Developer)
+
+</div>
+
+---
+
+## 🚀 **About Me**
+
+**Salesforce Developer** with 5+ years of experience building solutions across **Healthcare**, **Financial Services**, and **E-commerce**. Currently working at **Globant LLC** developing custom components and integrations for global clients.
+
+```apex
+public class BrunaGirao {
+    private static final String ROLE = 'Salesforce Developer';
+    private static final Integer EXPERIENCE_YEARS = 5;
+    
+    public void whatIDo() {
+        System.debug('💻 Building Lightning Web Components');
+        System.debug('⚡ Writing Apex triggers and classes');
+        System.debug('🔗 Creating system integrations');
+        System.debug('👥 Mentoring junior developers');
+    }
+}
+```
+
+---
+
+## 🏆 **Salesforce Certifications**
+
 <p align="center">
-  <img src="bruna_info_black.png"/>
+  <img src="https://img.shields.io/badge/Platform%20Developer%20II-FF6600?style=for-the-badge&logo=salesforce&logoColor=white" alt="Platform Developer II"/>
+  <img src="https://img.shields.io/badge/Platform%20Developer%20I-FF6600?style=for-the-badge&logo=salesforce&logoColor=white" alt="Platform Developer I"/>
+  <img src="https://img.shields.io/badge/Platform%20App%20Builder-0099CC?style=for-the-badge&logo=salesforce&logoColor=white" alt="App Builder"/>
+  <img src="https://img.shields.io/badge/Advanced%20Administrator-00CC66?style=for-the-badge&logo=salesforce&logoColor=white" alt="Advanced Admin"/>
+  <img src="https://img.shields.io/badge/Administrator-66CC00?style=for-the-badge&logo=salesforce&logoColor=white" alt="Administrator"/>
+  <img src="https://img.shields.io/badge/Associate-CCCC00?style=for-the-badge&logo=salesforce&logoColor=white" alt="Associate"/>
 </p>
 
-## Olá, Bem-vindo(a) ao meu perfil 👋
+---
 
-- 📖 Sou Bacharel em Sistemas de Informação na UNICHRISTUS.
-- 💼 Atualmente sou Desenvolvedora Salesforce Plena na Nèscara.
-- 📒 Possuo as seguintes certificações Salesforce: </br>
-        -🔸Plataform App Builder </br>
-        -🔸Plataform Developer I
-- 🌱 No momento estou aprendendo um pouco de tudo, mas principalmente Apex.
-- 🌳 Além de desenvolver mais projetos pessoais estou em busca de aprender JavaScript.
-- ✏️ Metas de 2022: </br>
-      - ✅ Tirar minha cerfitificação Plataform Developer I</br>
-      - ✅ Tirar minha cerfitificação App Builder </br>
-      - ✅ Começar a aprender JavaScript
+## 💼 **Recent Projects**
 
-### Entre em contato:
+### 🏥 **Albert Einstein Hospital** (Healthcare)
+- Developed LWC components for patient data consultation
+- Integrated with internal healthcare systems
+- Managed deployments and code reviews
 
-<a href="https://www.linkedin.com/in/brunagirao/" target="_blank">
-  <img src="https://img.shields.io/badge/-@brunagirao-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/brunagirao/" alt="LinkedIn Badge">
-</a>
+### 💳 **Global Payments** (Financial)
+- Built Oracle Billing integration using Platform Events
+- Implemented DocuSign integration with Apex
+- Created automated address verification with Google AVS API
+
+### 💊 **Ache Pharmaceutical** (Pharmaceutical)
+- Developed rebate management solution
+- Built Apex backend using design patterns
+- Integrated DocuSign E-Signature functionality
+
+### 🌾 **Agribusiness Projects** (Orígeo & Cooxupé)
+- Enhanced LWC components for better user experience
+- Maintained Salesforce-SAP integrations using BULK API 2.0
+- Mentored developers on testing best practices
 
 ---
-### Status do Github
-<div align="left">
- <a href="https://github.com/brunagirao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunagirao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="brunagirao" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunagirao&layout=compact&langs_count=7&theme=dracula" alt="brunagirao" />
+
+## 🛠️ **Technical Skills**
+
+### **Salesforce Development**
+- **Languages:** Apex, SOQL, JavaScript
+- **Frontend:** Lightning Web Components (LWC)
+- **Tools:** Flow Builder, Custom Metadata, Data Modeling
+- **Integrations:** Platform Events, REST APIs
+
+### **Administration & Configuration**
+- User management, profiles, permission sets
+- Custom objects, fields, validation rules
+- Reports and dashboards
+- Data Loader, Workbench, Salesforce Inspector
+
+### **Development Tools**
+- VS Code, SFDX CLI, Scratch Orgs
+- Git, GitHub, Jenkins
+- Apex Unit Testing, FFLib Framework
+- JIRA, Azure DevOps, Agile/Scrum
+
+### **Languages**
+- 🇧🇷 Portuguese (Native)
+- 🇺🇸 English (C1 Advanced)
+
+---
+
+## 📊 **GitHub Stats**
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunagirao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunagirao&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ---
-### Linguagens e ferramentas :
-<div style="display: inline_block">
-  <img align="center" alt="Bru-Sf"   height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg">
-  <img align="center" alt="Bru-Js"   height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Bru-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Bru-CSS"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bru-Az"   height="30" width="40" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" /> 
-  <img align="center" alt="Bru-Jv"   height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-  <img align="center" alt="Bru-Ms"   height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
-</div>
- 
-<br/>
-<!--<h3 align="left">Connect with me:</h3>
-<div> 
-  <a href="https://www.linkedin.com/in/brunagirao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/_brunagirao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:brunagirao.s@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>-->
-  
-  
 
+## 🎯 **Featured Repository**
+
+<div align="center">
+
+[![Apex Practice Problems](https://github-readme-stats.vercel.app/api/pin/?username=brunagirao&repo=apex-practice-problems&theme=tokyonight)](https://github.com/brunagirao/apex-practice-problems)
+
+</div>
+
+> 💡 **Apex Practice Problems:** A collection of practical Apex exercises to improve programming logic and Salesforce development skills.
+
+---
+
+## 📈 **Career Path**
+
+**2023 - Present:** Salesforce Developer @ **Globant LLC**  
+**2022 - 2023:** Salesforce Engineer @ **Ebury**  
+**2021 - 2022:** Salesforce Developer @ **Nèscara**  
+**2020 - 2021:** Salesforce Administrator @ **AYESA**  
+**2018 - 2020:** Salesforce Intern/Admin @ **Enel Brazil**  
+
+---
+
+## 🎓 **Education**
+**Bachelor's in Information Systems**  
+*Christus University Center - UNICHRISTUS* | 2016-2021
+
+---
+
+## 🌐 **Connect with Me**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunagirao)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brunagirao)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=brunagirao&color=brightgreen&style=flat-square)
+
+**Thanks for visiting my profile! 🚀**
+
+</div>
