@@ -41,30 +41,6 @@ public class BrunaGirao {
 
 ---
 
-## 💼 **Recent Projects**
-
-### 🏥 **Albert Einstein Hospital** (Healthcare)
-- Developed LWC components for patient data consultation
-- Integrated with internal healthcare systems
-- Managed deployments and code reviews
-
-### 💳 **Global Payments** (Financial)
-- Built Oracle Billing integration using Platform Events
-- Implemented DocuSign integration with Apex
-- Created automated address verification with Google AVS API
-
-### 💊 **Ache Pharmaceutical** (Pharmaceutical)
-- Developed rebate management solution
-- Built Apex backend using design patterns
-- Integrated DocuSign E-Signature functionality
-
-### 🌾 **Agribusiness Projects** (Orígeo & Cooxupé)
-- Enhanced LWC components for better user experience
-- Maintained Salesforce-SAP integrations using BULK API 2.0
-- Mentored developers on testing best practices
-
----
-
 ## 🛠️ **Technical Skills**
 
 ### **Salesforce Development**
