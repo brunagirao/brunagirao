@@ -88,16 +88,6 @@ public class BrunaGirao {
 
 ---
 
-## 📈 **Career Path**
-
-**2023 - Present:** Salesforce Developer @ **Globant LLC**  
-**2022 - 2023:** Salesforce Engineer @ **Ebury**  
-**2021 - 2022:** Salesforce Developer @ **Nèscara**  
-**2020 - 2021:** Salesforce Administrator @ **AYESA**  
-**2018 - 2020:** Salesforce Intern/Admin @ **Enel Brazil**  
-
----
-
 ## 🎓 **Education**
 **Bachelor's in Information Systems**  
 *Christus University Center - UNICHRISTUS* | 2016-2021
